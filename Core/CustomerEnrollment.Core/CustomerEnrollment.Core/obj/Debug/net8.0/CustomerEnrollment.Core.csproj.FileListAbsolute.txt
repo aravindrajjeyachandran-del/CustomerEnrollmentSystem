@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\bin\Debug\net8.0\CustomerEnrollment.Core.deps.json
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\bin\Debug\net8.0\CustomerEnrollment.Core.dll
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\bin\Debug\net8.0\CustomerEnrollment.Core.pdb
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\CustomerEnrollment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\CustomerEnrollment.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\CustomerEnrollment.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\CustomerEnrollment.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\CustomerEnrollment.Core.dll
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\refint\CustomerEnrollment.Core.dll
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\CustomerEnrollment.Core.pdb
+C:\Users\user\source\repos\Projects\CustomerEnrollment\Core\CustomerEnrollment.Core\CustomerEnrollment.Core\obj\Debug\net8.0\ref\CustomerEnrollment.Core.dll

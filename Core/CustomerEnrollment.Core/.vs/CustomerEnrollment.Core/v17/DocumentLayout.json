@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\models\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\models\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\customerenrollment.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\customerenrollment.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\services\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\services\\iencryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\core\\customerenrollment.core\\customerenrollment.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77267E99-589C-4A7D-8941-CAF6E16724DD}|CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj|solutionrelative:customerenrollment.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerEnrollment.Core",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj",
+              "RelativeToolTip": "CustomerEnrollment.Core\\CustomerEnrollment.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T21:42:05.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerEnrollment.Core\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:40:57.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerEnrollment.Core\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:38:00.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "CustomerEnrollment.Core\\Models\\CustomerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:34:46.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Models\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\Models\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Models\\CustomerRequest.cs",
+              "RelativeToolTip": "CustomerEnrollment.Core\\Models\\CustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:33:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Services\\IEncryptionService.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\Services\\IEncryptionService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Services\\IEncryptionService.cs",
+              "RelativeToolTip": "CustomerEnrollment.Core\\Services\\IEncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:42:31.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "CustomerEnrollment.Core\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:44:10.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\Core\\CustomerEnrollment.Core\\CustomerEnrollment.Core\\Class1.cs",
+              "RelativeToolTip": "CustomerEnrollment.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T21:25:07.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

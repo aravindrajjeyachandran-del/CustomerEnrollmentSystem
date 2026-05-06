@@ -1,0 +1,84 @@
+﻿@{
+    ViewData["Title"] = "Search Customer";
+    var apiBaseUrl = ViewBag.ApiBaseUrl as string ?? "https://localhost:7100";
+}
+
+<h2>Search Customer</h2>
+
+<div style="margin-bottom:15px;">
+    <input type="number" id="customerIdInput" placeholder="Enter Customer ID" />
+    <button onclick="searchCustomer()" id="searchBtn">Search</button>
+</div>
+
+<div id="msg" style="color:red; margin-bottom:10px;"></div>
+
+<div id="result" style="display:none; border:1px solid #ccc; padding:15px; width:400px;">
+    <p><b>ID:</b> <span id="cid"></span></p>
+    <p><b>Name:</b> <span id="name"></span></p>
+    <p><b>Mobile:</b> <span id="mobile"></span></p>
+    <p><b>Email:</b> <span id="email"></span></p>
+    <p><b>Proof Type:</b> <span id="ptype"></span></p>
+    <p><b>Proof No:</b> <span id="pno"></span></p>
+    <p><b>Address:</b> <span id="addr"></span></p>
+</div>
+
+<script>
+    const baseUrl = "@apiBaseUrl";
+
+    async function searchCustomer() {
+        let id = document.getElementById("customerIdInput").value;
+        let msg = document.getElementById("msg");
+        let result = document.getElementById("result");
+
+        msg.innerHTML = "";
+        result.style.display = "none";
+
+        if (!id || id <= 0) {
+            msg.innerHTML = "Enter valid ID";
+            return;
+        }
+
+        document.getElementById("searchBtn").disabled = true;
+
+        try {
+            let res = await fetch(baseUrl + "/api/customer/" + id);
+
+            if (res.status === 404) {
+                msg.innerHTML = "No record found";
+                return;
+            }
+
+            let data = await res.json();
+
+            // depending on API response
+            let c = data.customer || data;
+
+            if (!c) {
+                msg.innerHTML = "No data";
+                return;
+            }
+
+            document.getElementById("cid").innerHTML = id;
+            document.getElementById("name").innerHTML = c.name;
+            document.getElementById("mobile").innerHTML = c.mobile;
+            document.getElementById("email").innerHTML = c.email;
+            document.getElementById("ptype").innerHTML = c.proofType;
+            document.getElementById("pno").innerHTML = c.proofNumber || c.proofRefNumber;
+            document.getElementById("addr").innerHTML = c.address;
+
+            result.style.display = "block";
+        }
+        catch (e) {
+            msg.innerHTML = "Error calling API";
+        }
+        finally {
+            document.getElementById("searchBtn").disabled = false;
+        }
+    }
+
+    document.getElementById("customerIdInput").addEventListener("keypress", function (e) {
+        if (e.key === "Enter") {
+            searchCustomer();
+        }
+    });
+</script>
