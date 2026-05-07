@@ -13,10 +13,24 @@ namespace CustomerEnrollment.Core.Repositories
 
         public int InsertCustomer(CustomerModel model)
         {
-            var id = Interlocked.Increment(ref _nextId);
-            model.Id = id;
-            _store[id] = model;
-            return id;
+            using var conn = new SqlConnection(_connStr);
+            using var cmd = new SqlCommand("usp_EnrollCustomer", conn)
+            { CommandType = CommandType.StoredProcedure };
+
+            cmd.Parameters.AddWithValue("@Name", model.Name);
+            cmd.Parameters.AddWithValue("@Mobile", model.Mobile);
+            cmd.Parameters.AddWithValue("@Email", model.Email);
+            cmd.Parameters.AddWithValue("@ProofType", model.ProofType);
+            cmd.Parameters.AddWithValue("@ProofNumber", model.ProofNumber);
+            cmd.Parameters.AddWithValue("@Address", model.Address);
+
+            var outId = new SqlParameter("@CustomerId", SqlDbType.Int)
+            { Direction = ParameterDirection.Output };
+            cmd.Parameters.Add(outId);
+
+            conn.Open();
+            cmd.ExecuteNonQuery();
+            return Convert.ToInt32(outId.Value);
         }
 
         public CustomerModel? GetCustomer(int id)

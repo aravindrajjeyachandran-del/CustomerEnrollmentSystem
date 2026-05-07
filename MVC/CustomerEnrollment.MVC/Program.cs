@@ -4,7 +4,8 @@ using System;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers();
+
+builder.Services.AddControllersWithViews()
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddSingleton<IEncryptionService, EncryptionService>();
 builder.Services.AddCors(options =>
@@ -21,6 +22,10 @@ var app = builder.Build();
 
 app.UseCors("allowAll");
 
-app.MapControllers();
+app.UseStaticFiles();
+app.UseRouting();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Customer}/{action=Enroll}/{id?}");
 
 app.Run();

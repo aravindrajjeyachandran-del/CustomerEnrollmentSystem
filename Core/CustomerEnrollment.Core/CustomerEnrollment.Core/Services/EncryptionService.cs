@@ -5,10 +5,27 @@ namespace CustomerEnrollment.Core.Services
 {
     public class EncryptionService : IEncryptionService
     {
-        public string Encrypt(string plain)
+        private readonly byte[] _key;
+
+        public EncryptionService(IConfiguration config)
         {
-            if (plain is null) return string.Empty;
-            return Convert.ToBase64String(Encoding.UTF8.GetBytes(plain));
+            var secret = config["Encryption:SharedSecret"];
+            using var sha = SHA256.Create();
+            _key = sha.ComputeHash(Encoding.UTF8.GetBytes(secret));
+        }
+
+        public string Decrypt(string cipher)
+        {
+            var full = Convert.FromBase64String(cipher);
+            var iv = full[..16];
+            var data = full[16..];
+            using var aes = Aes.Create();
+            aes.Key = _key; aes.IV = iv;
+            using var dec = aes.CreateDecryptor();
+            using var ms = new MemoryStream(data);
+            using var cs = new CryptoStream(ms, dec, CryptoStreamMode.Read);
+            using var sr = new StreamReader(cs);
+            return sr.ReadToEnd();
         }
 
         public string Decrypt(string cipher)

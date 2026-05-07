@@ -10,7 +10,7 @@ using CustomerEnrollment.Core.Models;
 
 [ApiController]
 [Route("api/[controller]")]
-public class CustomerController : ControllerBase
+public class CustomerController : Controller
 {
     private readonly ICustomerRepository _repo;
     private readonly IEncryptionService _enc;

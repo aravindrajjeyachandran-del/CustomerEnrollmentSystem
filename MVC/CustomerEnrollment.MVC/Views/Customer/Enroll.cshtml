@@ -1,5 +1,8 @@
-﻿@{
+﻿
+@{ var apiBaseUrl = ViewBag.ApiBaseUrl as string ?? "https://localhost:7100"; }
+@{
     ViewData["Title"] = "Enroll";
+
 }
 
 <h2>Customer Enroll</h2>
@@ -26,21 +29,31 @@
         if (!val) return "";
 
         let enc = new TextEncoder();
-        let key = await crypto.subtle.importKey(
-            "raw",
-            enc.encode("12345678901234567890123456789012"),
-            { name: "AES-CBC" },
-            false,
-            ["encrypt"]
-        );
+        const SECRET = "Enr0llment@SecretKey#2024!XyZ"; // match appsettings
 
-        let iv = enc.encode("1234567890123456");
+        async function deriveKey(secret) {
+            const raw = await crypto.subtle.importKey(
+                "raw", new TextEncoder().encode(secret),
+                { name: "PBKDF2" }, false, ["deriveKey"]
+            );
+            return crypto.subtle.deriveKey(
+                {
+                    name: "PBKDF2", salt: new TextEncoder().encode("EnrollSalt"),
+                    iterations: 100000, hash: "SHA-256"
+                },
+                raw, { name: "AES-CBC", length: 256 }, false, ["encrypt"]
+            );
+        }
 
-        let encrypted = await crypto.subtle.encrypt(
-            { name: "AES-CBC", iv: iv },
-            key,
-            enc.encode(val)
-        );
+        async function encryptField(key, text) {
+            const iv = crypto.getRandomValues(new Uint8Array(16)); // random per field!
+            const cipher = await crypto.subtle.encrypt(
+                { name: "AES-CBC", iv }, key, new TextEncoder().encode(text)
+            );
+            const out = new Uint8Array(16 + cipher.byteLength);
+            out.set(iv); out.set(new Uint8Array(cipher), 16); // prepend IV
+            return btoa(String.fromCharCode(...out));
+        }
 
         return btoa(String.fromCharCode(...new Uint8Array(encrypted)));
     }
