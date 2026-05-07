@@ -5,8 +5,9 @@ using System;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddSingleton<IEncryptionService, EncryptionService>();
+builder.Services.AddSingleton<ICustomerRepository, CustomerRepository>();
+
 
 builder.Services.AddCors(options =>
 {

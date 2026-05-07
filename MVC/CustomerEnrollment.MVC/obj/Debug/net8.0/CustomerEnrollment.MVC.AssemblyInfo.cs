@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomerEnrollment.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11028b6b51e184da9368f0731cb4c2c788751d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomerEnrollment.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomerEnrollment.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

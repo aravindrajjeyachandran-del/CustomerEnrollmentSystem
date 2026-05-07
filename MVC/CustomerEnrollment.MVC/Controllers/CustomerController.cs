@@ -1,7 +1,12 @@
-﻿using CustomerEnrollment.Core.Repositories;
+﻿using CustomerEnrollment.Core.Models;
+using CustomerEnrollment.Core.Repositories;
 using CustomerEnrollment.Core.Services;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using CustomerEnrollment.Core.Repositories;
+using CustomerEnrollment.Core.Services;
+using CustomerEnrollment.Core.Models;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -26,7 +31,6 @@ public class CustomerController : ControllerBase
 
         try
         {
-            // decrypt incoming fields
             var model = new CustomerModel
             {
                 Name = _enc.Decrypt(req.Name),

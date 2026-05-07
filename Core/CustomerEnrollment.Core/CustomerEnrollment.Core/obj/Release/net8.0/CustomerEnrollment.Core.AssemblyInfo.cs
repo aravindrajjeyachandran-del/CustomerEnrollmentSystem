@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomerEnrollment.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d11028b6b51e184da9368f0731cb4c2c788751d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomerEnrollment.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomerEnrollment.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

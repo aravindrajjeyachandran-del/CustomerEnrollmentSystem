@@ -3,14 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\customerenrollment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\customerenrollment.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\views\\customer\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -19,30 +30,11 @@
       "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\views\\customer\\enroll.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B051FD80-36BD-422D-AE7F-705E4AF6BBDC}|..\\..\\MVC\\CustomerEnrollment.MVC\\CustomerEnrollment.MVC.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\mvc\\customerenrollment.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\models\\customermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\models\\customermodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|c:\\users\\user\\source\\repos\\projects\\customerenrollment\\api\\customerenrollment.api\\customerenrollment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F26E4B1F-6AFD-4E16-8B23-C54A0ECECD16}|CustomerEnrollment.API\\CustomerEnrollment.API.csproj|solutionrelative:customerenrollment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,73 +44,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerEnrollment.API",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
-              "RelativeDocumentMoniker": "CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
-              "RelativeToolTip": "CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-06T22:01:58.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Program.cs",
               "RelativeToolTip": "..\\..\\MVC\\CustomerEnrollment.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T21:16:58.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Search.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
-              "RelativeToolTip": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAowFMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-06T21:16:00.349Z"
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Program.cs",
+              "RelativeToolTip": "CustomerEnrollment.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:44:42.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Enroll.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
-              "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
-              "RelativeToolTip": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowEQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-06T21:15:39.222Z"
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CustomerEnrollment.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CustomerEnrollment.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwDwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T20:55:28.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "..\\..\\MVC\\CustomerEnrollment.MVC\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAowEQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T21:12:55.281Z"
+              "WhenOpened": "2026-05-06T21:12:55.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\Controllers\\HomeController.cs",
@@ -131,7 +113,44 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerEnrollment.API",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
+              "RelativeDocumentMoniker": "CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
+              "RelativeToolTip": "CustomerEnrollment.API\\CustomerEnrollment.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T22:01:58.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enroll.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
+              "RelativeToolTip": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Enroll.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T21:15:39.222Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
+              "RelativeToolTip": "..\\..\\MVC\\CustomerEnrollment.MVC\\Views\\Customer\\Search.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAowFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T21:16:00.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\MVC\\CustomerEnrollment.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\MVC\\CustomerEnrollment.MVC\\appsettings.json",
@@ -140,54 +159,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-05-06T20:59:59.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "CustomerEnrollment.API\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "CustomerEnrollment.API\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T20:55:28.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EncryptionService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Services\\EncryptionService.cs",
-              "RelativeDocumentMoniker": "CustomerEnrollment.API\\Services\\EncryptionService.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Services\\EncryptionService.cs",
-              "RelativeToolTip": "CustomerEnrollment.API\\Services\\EncryptionService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T20:50:05.461Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CustomerModels.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Models\\CustomerModels.cs",
-              "RelativeDocumentMoniker": "CustomerEnrollment.API\\Models\\CustomerModels.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Models\\CustomerModels.cs",
-              "RelativeToolTip": "CustomerEnrollment.API\\Models\\CustomerModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T20:47:38.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Program.cs",
-              "RelativeDocumentMoniker": "CustomerEnrollment.API\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\Projects\\CustomerEnrollment\\API\\CustomerEnrollment.API\\CustomerEnrollment.API\\Program.cs",
-              "RelativeToolTip": "CustomerEnrollment.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T20:44:42.393Z"
             },
             {
               "$type": "Document",
