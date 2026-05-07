@@ -27,19 +27,5 @@ namespace CustomerEnrollment.Core.Services
             using var sr = new StreamReader(cs);
             return sr.ReadToEnd();
         }
-
-        public string Decrypt(string cipher)
-        {
-            if (cipher is null) return string.Empty;
-            try
-            {
-                var bytes = Convert.FromBase64String(cipher);
-                return Encoding.UTF8.GetString(bytes);
-            }
-            catch
-            {
-                return string.Empty;
-            }
-        }
     }
 }

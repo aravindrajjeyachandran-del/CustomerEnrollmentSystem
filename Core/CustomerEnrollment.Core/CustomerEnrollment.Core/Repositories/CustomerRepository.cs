@@ -3,6 +3,8 @@ using System.Collections.Concurrent;
 using CustomerEnrollment.Core.Models;
 using System.Collections.Concurrent;
 using System.Threading;
+using Microsoft.Data.SqlClient;
+using System.Data;
 
 namespace CustomerEnrollment.Core.Repositories
 {
@@ -35,6 +37,7 @@ namespace CustomerEnrollment.Core.Repositories
 
         public CustomerModel? GetCustomer(int id)
         {
+            new SqlConnection(_connStr)
             _store.TryGetValue(id, out var found);
             return found;
         }
